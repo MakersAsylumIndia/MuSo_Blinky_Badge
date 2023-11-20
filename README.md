@@ -21,9 +21,9 @@ a really easy, learn to solder Museum of Solutions + Maker's Asylum Badge
 DISCUSSION FORUM : TBD
 
 rev1 renders
-![MAP4](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/MuSo_07.png)
+![MAP4](https://github.com/MakersAsylumIndia/MuSo_Blinky_Badge/blob/master/kicad/images/MuSo_07.png)
 
-![MAP4](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/MuSo_08.png)
+![MAP4](https://github.com/MakersAsylumIndia/MuSo_Blinky_Badge/blob/master/kicad/images/MuSo_08.png)
 
 
 License
