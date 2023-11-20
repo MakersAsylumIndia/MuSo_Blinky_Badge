@@ -1,0 +1,16 @@
+(footprint "MTG_12x3_slot" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "MAP4.kicad_sch")
+  (property "Sheetname" "")
+  (zone_connect 2)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 1.27) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 41744c57-e1c2-445c-a71e-f6db2cb9fd2e)
+  )
+  (fp_text value "Pin" (at 0 -1.27) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1c793f92-a6ac-41ef-a979-ede401dcc1c8)
+  )
+  (pad "1" thru_hole oval (at 0 0) (size 12.4 3.4) (drill oval 12 3) (layers "*.Cu" "*.Mask") (tstamp 81ec24d5-8a27-4caf-90b3-2c341eb4a7f8))
+)
