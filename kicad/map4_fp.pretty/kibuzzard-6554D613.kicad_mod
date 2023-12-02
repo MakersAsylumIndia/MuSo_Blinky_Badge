@@ -5,11 +5,11 @@
   (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -4.169728) (layer "F.SilkS") hide
       (effects (font (size 0 0) (thickness 0.15)))
-    (tstamp e0fe6968-426a-40e6-9155-f3c1a5239bdd)
+    (tstamp 88d1d08a-5079-44d9-942c-980920e3a030)
   )
   (fp_text value "G***" (at 0 4.169728) (layer "F.SilkS") hide
       (effects (font (size 0 0) (thickness 0.15)))
-    (tstamp a89b691a-43c2-428f-aa85-bde9535af13b)
+    (tstamp 85ad9934-2bd8-4710-bda8-5d3d07a11bb3)
   )
   (fp_poly
     (pts
@@ -22,7 +22,7 @@
       (xy -4.32435 -0.052388)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 85768266-0ce1-4067-9e68-d55d2326654f))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 648d30f8-5d77-4679-9de4-a92aed38de0e))
   (fp_poly
     (pts
       (xy -6.741795 0.012382)
@@ -36,7 +36,7 @@
       (xy -6.741795 0.012382)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 1adc0f72-2811-49d0-bca2-d2653bf92d3a))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 73007a68-5c80-480f-82dd-09aa56891c92))
   (fp_poly
     (pts
       (xy -1.69164 0.012382)
@@ -50,7 +50,7 @@
       (xy -1.69164 0.012382)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ce9c53cb-e9d4-40da-b478-6cee65195ed0))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 197edbd9-2a07-4bb8-9fdc-e6eceef92063))
   (fp_poly
     (pts
       (xy 6.425565 0.14859)
@@ -68,7 +68,7 @@
       (xy 6.425565 0.14859)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 79876974-629e-48be-b34d-fa365bd960b6))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 510a2717-5dc6-49b8-b448-e85d21918c6f))
   (fp_poly
     (pts
       (xy -8.66775 -1.121728)
@@ -787,5 +787,5 @@
       (xy -8.66775 -1.121728)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 0c8ffa43-4c58-4950-9f8a-420a72d4de5a))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 247d082f-fbc5-4ebe-b980-5f31377492b8))
 )

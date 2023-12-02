@@ -51,8 +51,8 @@
     (aux_axis_origin 100 100)
     (grid_origin 100 100)
     (pcbplotparams
-      (layerselection 0x0000130_ffffffff)
-      (plot_on_all_layers_selection 0x0001000_00000000)
+      (layerselection 0x0000030_7ffffffe)
+      (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -69,7 +69,7 @@
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
       (dxfpolygonmode true)
-      (dxfimperialunits true)
+      (dxfimperialunits false)
       (dxfusepcbnewfont true)
       (psnegative false)
       (psa4output false)
@@ -78,7 +78,7 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk true)
-      (outputformat 4)
+      (outputformat 3)
       (mirror false)
       (drillshape 2)
       (scaleselection 1)
@@ -130,7 +130,7 @@
       (net 1 "/3V") (pinfunction "A") (pintype "passive") (tstamp 075b7402-322e-432f-ad96-e9cbbbf32ee0))
     (pad "2" thru_hole circle (at 1.27 0 180) (size 1.8 1.8) (drill 0.8) (layers "*.Cu" "*.Mask" "F.SilkS")
       (net 3 "/LED_red") (pinfunction "K") (pintype "passive") (tstamp e7ec5239-0e7c-4e56-9508-9e0dfd85c2ef))
-    (model "${KIPRJMOD}/3d_modules/LED_5mm.wrl"
+    (model "${KIPRJMOD}/3d_modules/LED_5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -238,7 +238,7 @@
       (net 3 "/LED_red") (pintype "passive") (tstamp 088665e3-3d7c-46aa-a760-66c40ea133f6))
     (pad "2" thru_hole circle (at 4.064 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask" "B.SilkS")
       (net 3 "/LED_red") (pintype "passive") (tstamp b9bb92a4-8649-4e1e-8df4-aa0d8b50a8d0))
-    (model "${KIPRJMOD}/3d_modules/resistor_7_62mm.wrl"
+    (model "${KIPRJMOD}/3d_modules/resistor_7_62mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -332,14 +332,14 @@
       (net 2 "/GND") (pinfunction "-") (pintype "passive") (tstamp 4a6f1c17-ca6d-4588-ab32-8a3287b273d0))
     (pad "2" thru_hole circle (at 0 13 270) (size 2.5 2.5) (drill 1.3) (layers "*.Cu" "*.Mask" "B.SilkS")
       (net 2 "/GND") (pinfunction "-") (pintype "passive") (tstamp 63e59a2d-3449-45c9-a1af-dded42c9ee00))
-    (model "CR2032_HOR_HOLD.wrl"
+    (model "${KIPRJMOD}/3d_modules/CR2032_HOR_HOLD.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "kibuzzard-655707C1" (layer "B.Cu")
+  (footprint "map4_fp:kibuzzard-655707C1" (layer "B.Cu")
     (tstamp 4cd08035-70ee-454a-8dba-1df6b382628c)
     (at 112.4 69 180)
     (descr "Generated with KiBuzzard")
